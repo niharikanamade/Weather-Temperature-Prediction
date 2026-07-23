@@ -38,6 +38,9 @@ R² Score: 0.80
 - Scikit-learn
 - Streamlit
 
+## dataset link
+https://www.kaggle.com/datasets/niharikanamade/weather-data-minute
+
 ## How to Run
 
 pip install -r requirements.txt
